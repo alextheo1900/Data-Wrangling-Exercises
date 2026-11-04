@@ -1,4 +1,4 @@
 # Data-Wrangling-Exercises
 Data Wrangling Practice and stuff
 
-se gamaw ontos re file nai
+se gamaw ontos re file nai ase re pousti
